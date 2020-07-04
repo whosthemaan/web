@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    filter: blur(2px);
+    filter: blur(5px);
     background-image: url('../img/header.png');
     text-align: center;
     color: white;
